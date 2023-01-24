@@ -1,0 +1,9 @@
+This Document describes the tests run in this container.
+Test Suite : EnklareTests.js
+Executed on : Chrome 
+Command to run Test suite : npx wdio run ./wdio.conf.js 
+
+Functional Tests for the home Page https://enklare.se/privatlan/ :
+    ✓ Test 1 : Should open the privatlån page
+    ✓ Test 2 : Should go to private loan page when clicked on "Privatlån Arrow Icon" or Privatlån submenu
+	
